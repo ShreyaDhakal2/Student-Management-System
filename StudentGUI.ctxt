@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StudentGUI
+comment1.params=
+comment1.target=StudentGUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=this\ is\ the\ main\ method\ named\ actionPerformed\ which\ helps\ in\ handling\ the\ different\ events.\ for\ examplw,\ on\ button\ click,\ this\ portion\ instructs\r\n\ \ \ \ \ \ \ different\ buttons\ as\ to\ what\ it\ should\ really\ be\ doing.\ There\ are\ 18\ button\ in\ total\ in\ this\ project\ which\ is\ handled\ by\ the\ method\ action\ performed\r\n\ \ \ \ \ \ \ opening\ the\ frames,\ displaying\ suitable\ messages\ in\ dialog\ box\ on\ buttn\ click,\ registering\ the\ student,\ removing\ the\ student\ from\ the\ list,\ paying\r\n\ \ \ \ \ \ \ the\ fees,\ calculating\ present\ percentage,\ granting\ the\ certificate\ to\ the\ designated\ student\ is\ done\ by\ this\ method\ through\ the\ different\ buttons\r\n\ \ \ \ \ \ \ AND,\r\n\ \ \ \ \ \ \ exception\ handling\ is\ also\ done\ in\ this\ portion\ in\ which\ if\ any\ String\ value\ is\ entered\ in\ integer\ textfield,\ it\ shows\ specific\ error\ message\ in\ the\r\n\ \ \ \ \ \ \ dialog\ box.\ \r\n\ \ \ \ \ \ \ Furthermore,\ the\ program\ also\ shows\ the\ error\ if\ any\ textfield\ is\ left\ vacant.\r\n\ \ \ \ \ \ \ \r\nClear\ Buttons\ help\ in\ clearing\ out\ the\ differet\ textfields\ in\ the\ frame
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
